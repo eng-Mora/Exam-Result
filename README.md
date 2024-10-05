@@ -76,6 +76,12 @@
             color: #4ce1e6;
             font-weight: bold;
         }
+        footer {
+            margin-top: 20px;
+            padding: 10px 0;
+            color: #00adb5;
+            font-size: 1em;
+        }
     </style>
     <script>
         function getResult() {
@@ -309,3 +315,6 @@
         <button onclick="getResult()">Check Result</button>
         <div id="result"></div>
     </div>
+    <footer>
+        Developed by Eng: Amr Mohamed
+    </footer>
