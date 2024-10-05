@@ -9,29 +9,30 @@
             background-color: #1a1a2e;
             color: #ffffff;
             text-align: center;
-            padding: 40px;
+            padding: 20px;
+            margin: 0; /* Remove default margin */
         }
         .container {
             max-width: 500px;
             margin: 0 auto;
             background: #16213e;
-            padding: 25px;
+            padding: 20px;
             border-radius: 12px;
             box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
         }
         h1 {
-            font-size: 2.5em;
+            font-size: 2em; /* Use responsive font size */
             color: #00adb5;
             margin-bottom: 20px;
         }
         p {
-            font-size: 1.1em;
+            font-size: 1em; /* Use responsive font size */
             color: #bfc0c0;
             margin-bottom: 20px;
         }
         input[type="text"] {
             padding: 10px;
-            width: 80%;
+            width: 90%; /* Use relative width */
             font-size: 1em;
             background: #0f3460;
             border: 2px solid #00adb5;
@@ -55,6 +56,7 @@
             cursor: pointer;
             transition: background 0.3s ease, transform 0.2s;
             box-shadow: 0 6px 15px rgba(0, 173, 181, 0.3);
+            width: 90%; /* Ensure button is responsive */
         }
         button:hover {
             background: #ff2e63;
@@ -72,6 +74,19 @@
             font-size: 1.2em;
             color: #4ce1e6;
             font-weight: bold;
+        }
+
+        /* Media Queries for responsiveness */
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 1.8em; /* Slightly smaller on mobile */
+            }
+            p {
+                font-size: 0.9em; /* Slightly smaller on mobile */
+            }
+            button {
+                padding: 10px 20px; /* Adjust button padding */
+            }
         }
     </style>
     <script>
