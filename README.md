@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>Exam Results</title>
     <style>
         body {
@@ -13,26 +13,27 @@
             padding: 0;
         }
         .container {
-            max-width: 600px;
+            max-width: 95%;
+            width: 100%;
             margin: 20px auto;
             background: #16213e;
-            padding: 25px;
+            padding: 20px;
             border-radius: 12px;
             box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
         }
         h1 {
-            font-size: 2.5em;
+            font-size: 2em;
             color: #00adb5;
             margin-bottom: 20px;
         }
         p {
-            font-size: 1.1em;
+            font-size: 1em;
             color: #bfc0c0;
-            margin-bottom: 20px;
+            margin-bottom: 15px;
         }
         input[type="text"] {
-            padding: 10px;
-            width: calc(100% - 20px); /* Adjusted for full width minus padding */
+            padding: 12px;
+            width: 100%;
             font-size: 1em;
             background: #0f3460;
             border: 2px solid #00adb5;
@@ -47,7 +48,7 @@
             box-shadow: 0 0 10px rgba(255, 46, 99, 0.5);
         }
         button {
-            padding: 12px 25px;
+            padding: 10px 20px;
             background: #00adb5;
             color: #ffffff;
             font-size: 1em;
@@ -56,20 +57,21 @@
             cursor: pointer;
             transition: background 0.3s ease, transform 0.2s;
             box-shadow: 0 6px 15px rgba(0, 173, 181, 0.3);
+            width: 100%;
         }
         button:hover {
             background: #ff2e63;
             transform: translateY(-3px);
         }
         .result {
-            margin-top: 25px;
+            margin-top: 20px;
             padding: 20px;
             background: #0f3460;
             border-radius: 10px;
             box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3);
         }
         .motivational {
-            margin-top: 15px;
+            margin-top: 10px;
             font-size: 1.2em;
             color: #4ce1e6;
             font-weight: bold;
@@ -105,7 +107,6 @@
                     degree = "0/0";
                     motivationalMessage = "You're capable of achieving great results!";
                     break;
-                // Add other cases as needed...
                 default:
                     name = "Unknown";
                     degree = "N/A";
@@ -131,4 +132,3 @@
         <button onclick="getResult()">Check Result</button>
         <div id="result"></div>
     </div>
-
