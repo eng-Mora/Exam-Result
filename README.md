@@ -154,7 +154,7 @@
                     motivationalMessage = "Great things take time, keep going!";
                     break;
                 case "75934":
-                    name = "Diya Abdelaleem";
+                    name = "Dae Abdelaleem";
                     degree = "0/0";
                     motivationalMessage = "Your determination will lead you to success!";
                     break;
