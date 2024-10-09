@@ -96,202 +96,202 @@
                 case "2526":
                      name = "Amro Mohamed";
                      degree = "58+2=<span style='color:#ff2e63;'>60</span>/60";
-                     motivationalMessage = "Great job! You're on your way to amazing things!";
+                     motivationalMessage = "Great job! You're on your way to amazing things!🤩";
                      break;
                 case "41715":
                     name = "Ahmed Hossam";
                     degree = "47+4=<span style='color:#ff2e63;'>51</span>/60";
-                    motivationalMessage = "Keep working hard! Improvement is always possible!";
+                    motivationalMessage = "Keep working hard! Improvement is always possible!🤩";
                     break;
                 case "39472":
                     name = "Mohamed Abdelazeem";
                     degree = "42+3=<span style='color:#ff2e63;'>45</span>/60";
-                    motivationalMessage = "Don't give up! Keep pushing forward!";
+                    motivationalMessage = "Don't give up! Keep pushing forward!🤩";
                     break;
                 case "52182":
                     name = "Omar Waleed";
                     degree = "56+2=<span style='color:#ff2e63;'>58</span>/60";
-                    motivationalMessage = "You're capable of achieving great results!";
+                    motivationalMessage = "You're capable of achieving great results!🤩";
                     break;
                 case "70126":
                     name = "Mazen Mohamed";
                     degree = "43+2=<span style='color:#ff2e63;'>45</span>/60";
-                    motivationalMessage = "Every setback is a setup for a comeback!";
+                    motivationalMessage = "Every setback is a setup for a comeback!🤩";
                     break;
                 case "63855":
                     name = "Abdelrahman Mahmoud";
                     degree = "42+2=<span style='color:#ff2e63;'>44</span>/60";
-                    motivationalMessage = "Keep striving for your goals!";
+                    motivationalMessage = "Keep striving for your goals!🤩";
                     break;
                 case "80650":
                     name = "Ahmed Ayman";
                     degree = "50+4=<span style='color:#ff2e63;'>54</span>/60";
-                    motivationalMessage = "Believe in yourself and all that you are!";
+                    motivationalMessage = "Believe in yourself and all that you are!🤩";
                     break;
                 case "80546":
                     name = "Mazen Ahmed";
                     degree = "52+4=<span style='color:#ff2e63;'>56</span>/60";
-                    motivationalMessage = "Your hard work will pay off!";
+                    motivationalMessage = "Your hard work will pay off!🤩";
                     break;
                 case "23069":
                     name = "Youssef Hassan";
                     degree = "39+5=<span style='color:#ff2e63;'>44</span>/60";
-                    motivationalMessage = "Stay focused and keep moving forward!";
+                    motivationalMessage = "Stay focused and keep moving forward!🤩";
                     break;
                 case "73057":
                     name = "Omar Hany";
                     degree = "37+3=<span style='color:#ff2e63;'>40</span>/60";
-                    motivationalMessage = "Keep your head high and trust your capabilities!";
+                    motivationalMessage = "Keep your head high and trust your capabilities!🤩";
                     break;
                 case "35804":
                     name = "Reem Khaled";
                     degree = "48+3=<span style='color:#ff2e63;'>51</span>/60";
-                    motivationalMessage = "Stay positive and keep learning!";
+                    motivationalMessage = "Stay positive and keep learning!🤩";
                     break;
                 case "21687":
                     name = "Rowan Ehab";
                     degree = "40+3=<span style='color:#ff2e63;'>43</span>/60";
-                    motivationalMessage = "Great things take time, keep going!";
+                    motivationalMessage = "Great things take time, keep going!🤩";
                     break;
                 case "75934":
                     name = "Dae Abdelaleem";
                     degree = "31+4=<span style='color:#ff2e63;'>35</span>/60";
-                    motivationalMessage = "Your determination will lead you to success!";
+                    motivationalMessage = "Your determination will lead you to success!🤩";
                     break;
                 case "15032":
                     name = "Tasneem Mohamed";
                     degree = "45+2=<span style='color:#ff2e63;'>47</span>/60";
-                    motivationalMessage = "Don't stop now, you are getting closer!";
+                    motivationalMessage = "Don't stop now, you are getting closer!🤩";
                     break;
                 case "16840":
                     name = "Sama Ibrahim";
                     degree = "35+2=<span style='color:#ff2e63;'>37</span>/60";
-                    motivationalMessage = "Keep moving forward, success is ahead!";
+                    motivationalMessage = "Keep moving forward, success is ahead!🤩";
                     break;
                 case "18054":
                     name = "Haneen El-Sayed";
                     degree = "32+2=<span style='color:#ff2e63;'>34</span>/60";
-                    motivationalMessage = "You're doing great, keep it up!";
+                    motivationalMessage = "You're doing great, keep it up!🤩";
                     break;
                 case "20321":
                     name = "Basant Mohamed";
                     degree = "16+4=<span style='color:#ff2e63;'>20</span>/60";
-                    motivationalMessage = "Believe in the power of your dreams!";
+                    motivationalMessage = "Believe in the power of your dreams!🤩";
                     break;
                 case "39639":
                     name = "Eman Mohamed";
                     degree = "40+3=<span style='color:#ff2e63;'>43</span>/60";
-                    motivationalMessage = "Don't stop believing, you're almost there!";
+                    motivationalMessage = "Don't stop believing, you're almost there!🤩";
                     break;
                 case "28411":
                     name = "Raheeq Sayed";
                     degree = "38+4=<span style='color:#ff2e63;'>42</span>/60";
-                    motivationalMessage = "Hard work always pays off in the end!";
+                    motivationalMessage = "Hard work always pays off in the end!🤩";
                     break;
                 case "69756":
                     name = "Ahmed Yasser";
                     degree = "58+2=<span style='color:#ff2e63;'>60</span>/60";
-                    motivationalMessage = "Stay determined and keep aiming high!";
+                    motivationalMessage = "Stay determined and keep aiming high!🤩";
                     break;
                 case "80135":
                     name = "Mohamed Ashraf";
                     degree = "57+3=<span style='color:#ff2e63;'>60</span>/60";
-                    motivationalMessage = "You're stronger than you think, keep going!";
+                    motivationalMessage = "You're stronger than you think, keep going!🤩";
                     break;
                 case "29474":
                     name = "Mohamed Ehab";
                     degree = "39+5=<span style='color:#ff2e63;'>44</span>/60";
-                    motivationalMessage = "Stay motivated, great things are coming!";
+                    motivationalMessage = "Stay motivated, great things are coming!🤩";
                     break;
                 case "58471":
                     name = "Abdelrahman Shaaban";
                     degree = "31+4=<span style='color:#ff2e63;'>35</span>/60";
-                    motivationalMessage = "Believe in yourself, you are capable of greatness!";
+                    motivationalMessage = "Believe in yourself, you are capable of greatness!🤩";
                     break;
                 case "49696":
                     name = "Adam Amr";
                     degree = "48+5=<span style='color:#ff2e63;'>53</span>/60";
-                    motivationalMessage = "Success is on the way, keep pushing!";
+                    motivationalMessage = "Success is on the way, keep pushing!🤩";
                     break;
                 case "25695":
                     name = "Vera Essam";
                     degree = "43+3=<span style='color:#ff2e63;'>46</span>/60";
-                    motivationalMessage = "You're almost there, don't give up now!";
+                    motivationalMessage = "You're almost there, don't give up now!🤩";
                     break;
                 case "41596":
                     name = "Nour Eldin";
                     degree = "49+2=<span style='color:#ff2e63;'>51</span>/60";
-                    motivationalMessage = "Focus on your goals, you are unstoppable!";
+                    motivationalMessage = "Focus on your goals, you are unstoppable!🤩";
                     break;
                 case "72137":
                     name = "Rodina Ayman";
                     degree = "49+1=<span style='color:#ff2e63;'>50</span>/60";
-                    motivationalMessage = "You're on the right path, keep going!";
+                    motivationalMessage = "You're on the right path, keep going!🤩";
                     break;
                 case "48261":
                     name = "Ziad Ahmed";
                     degree = "43+2=<span style='color:#ff2e63;'>45</span>/60";
-                    motivationalMessage = "Don't look back, your future is bright!";
+                    motivationalMessage = "Don't look back, your future is bright!🤩";
                     break;
                 case "48389":
                     name = "Sundus Salah";
                     degree = "47+3=<span style='color:#ff2e63;'>50</span>/60";
-                    motivationalMessage = "Stay motivated, you're doing great!";
+                    motivationalMessage = "Stay motivated, you're doing great!🤩";
                     break;
                 case "66908":
                     name = "Ahmed Mohamed";
                     degree = "54+4=<span style='color:#ff2e63;'>58</span>/60";
-                    motivationalMessage = "Keep working towards your goals, success is near!";
+                    motivationalMessage = "Keep working towards your goals, success is near!🤩";
                     break;
                 case "30693":
                     name = "Rahma Maged";
                     degree = "38+3=<span style='color:#ff2e63;'>41</span>/60";
-                    motivationalMessage = "You've got this, keep pushing forward!";
+                    motivationalMessage = "You've got this, keep pushing forward!🤩";
                     break;
                 case "81659":
                     name = "Nour Abdelrahman";
                     degree = "44+3=<span style='color:#ff2e63;'>47</span>/60";
-                    motivationalMessage = "Every effort you make brings you closer to success!";
+                    motivationalMessage = "Every effort you make brings you closer to success!🤩";
                     break;
                 case "16075":
                     name = "Omnia Ayman";
                     degree = "46+3=<span style='color:#ff2e63;'>49</span>/60";
-                    motivationalMessage = "Stay determined, your hard work will pay off!";
+                    motivationalMessage = "Stay determined, your hard work will pay off!🤩";
                     break;
                 case "32859":
                     name = "Mariam Atef";
                     degree = "41+4=<span style='color:#ff2e63;'>45</span>/60";
-                    motivationalMessage = "You're on the path to greatness, keep going!";
+                    motivationalMessage = "You're on the path to greatness, keep going!🤩";
                     break;
                 case "23849":
                     name = "Farah Emad";
                     degree = "38+3=<span style='color:#ff2e63;'>41</span>/60";
-                    motivationalMessage = "Keep believing in yourself, success will follow!";
+                    motivationalMessage = "Keep believing in yourself, success will follow!🤩";
                     break;
                 case "88105":
                     name = "Sandy Essam";
                     degree = "46+3=<span style='color:#ff2e63;'>49</span>/60";
-                    motivationalMessage = "You are closer to success than you think!";
+                    motivationalMessage = "You are closer to success than you think!🤩";
                     break;
                 case "69897":
                     name = "Arwa Ahmed";
                     degree = "43+3=<span style='color:#ff2e63;'>46</span>/60";
-                    motivationalMessage = "Stay focused and keep moving forward!";
+                    motivationalMessage = "Stay focused and keep moving forward!🤩";
                     break;
                 case "15290":
                     name = "Mohamed Amr";
                     degree = "36+1=<span style='color:#ff2e63;'>37</span>/60";
-                    motivationalMessage = "You're capable of amazing things, keep pushing!";
+                    motivationalMessage = "You're capable of amazing things, keep pushing!🤩";
                     break;
                 case "92758":
                     name = "Mazen Abdelwahab";
                     degree = "53+2=<span style='color:#ff2e63;'>55</span>/60";
-                    motivationalMessage = "Your hard work and dedication will pay off soon!";
+                    motivationalMessage = "Your hard work and dedication will pay off soon!🤩";
                     break;
                  case "58391":
                     name = "Malak Mohamed";
                     degree = "53+1=<span style='color:#ff2e63;'>54</span>/60";
-                    motivationalMessage = "Your hard work and dedication will pay off soon!";
+                    motivationalMessage = "Your hard work and dedication will pay off soon!🤩";
                     break;
                 default:
                     name = "Unknown";
