@@ -258,7 +258,7 @@
                     degree = "46+3=<span style='color:#ff2e63;'>49</span>/60";
                     motivationalMessage = "Stay determined, your hard work will pay off!🤩";
                     break;
-                case "32859":
+                case "32532":
                     name = "Mariam Atef";
                     degree = "41+4=<span style='color:#ff2e63;'>45</span>/60";
                     motivationalMessage = "You're on the path to greatness, keep going!🤩";
