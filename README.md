@@ -322,14 +322,106 @@ degree = "39+2=<span style='color:#ff2e63;'>41</span>/60";
         motivationalMessage = "Great job! You're on your way to amazing things!🤩";
         resource = "<a href='https://drive.google.com/file/d/1detmq0OUs3-a1C0gzAalQ_vf8US_1O_g/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
         break;
+        
+        
+        
+        case "73349":
+    name = "Mahmoud Hesham";
+    degree = "20+2=<span style='color:#ff2e63;'>22</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1buZBRcqsKoKqVt_8rx_u7bxto65EtWh6/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "39639":
+    name = "Eman Mohamed";
+    degree = "35+2=<span style='color:#ff2e63;'>37</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/10aazAx6kio73dFNq6vELDKmRCwC6HAAp/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "10781":
+    name = "Yasmin El Sayed";
+    degree = "35+2=<span style='color:#ff2e63;'>37</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1IO9GDUm_hJ87xXzAIvbqe7CPX_pNNsRu/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "47916":
+    name = "Abdallah Ahmed Mahmoud";
+    degree = "45+2=<span style='color:#ff2e63;'>47</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1dSZ0etArbaUUG1cide5AXv_ZGsaWzX0y/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "95731":
+    name = "Rodaina Mohamed Nasr";
+    degree = "34+2=<span style='color:#ff2e63;'>36</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1idPXc4S0ZS84ZEkzmXkkymhTPPSWENN_/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "52182":
+    name = "Omar Walid Gamal";
+    degree = "51+2=<span style='color:#ff2e63;'>53</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1ku3Rkh6D5_UyCqHl2xMTRvePSvnjQeuR/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "35365":
+    name = "Hatem Amin Mohamed";
+    degree = "45+2=<span style='color:#ff2e63;'>47</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1zTV-EqhRe8nnAJdZ3iW0vC2pQZRNm_46/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "21687":
+    name = "Rowan Ihab";
+    degree = "37+2=<span style='color:#ff2e63;'>39</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1bp1ChKp5yH2nYFAq7t3JKJuKXYWWUqZU/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "49696":
+    name = "Adam";
+    degree = "35+2=<span style='color:#ff2e63;'>37</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1NgqhkX52gpOySFzY3haPhciUxchRmx-X/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "41715":
+    name = "Ahmed Hossam";
+    degree = "30+2=<span style='color:#ff2e63;'>32</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1SJJsUY6hhE0fF7prD7D5IiEuEuXArgEB/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "39472":
+    name = "Mohamed Abdelazeem El Hafnawy";
+    degree = "29+2=<span style='color:#ff2e63;'>31</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1EZvyF-3yLT_ShYx-ECdYJlhHMdeTCOLU/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "29474":
+    name = "Mohamed Ehab";
+    degree = "33+2=<span style='color:#ff2e63;'>35</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1iZuEiM8gjSyEdfnYDK6-I4kZyfLXQ4Pt/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "81659":
+    name = "Nour Abdelrahman";
+    degree = "48+2=<span style='color:#ff2e63;'>51</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1BZc46o9PhBs_oHO8gvFTrHGC5yrUDLg-/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "37144":
+    name = "Abdallah Ahmed Salah El Helw";
+    degree = "40+2=<span style='color:#ff2e63;'>42</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/11g-8OKBMhoLa3-2PX71RHf402RMm5LTY/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+        break;
+case "75934":
+    name = "Daai Abdelalim Mohamed";
+    degree = "30+2=<span style='color:#ff2e63;'>32</span>/60";
+    motivationalMessage = "Great job! You're on your way to amazing things!🤩";
+    resource = "<a href='https://drive.google.com/file/d/1iqg9wqaIdIotsujw-A_HlQtquZsKsQjF/view?usp=drive_link' target='_blank' style='color: red;'>Download your answers (PDF)</a>";
+
+                break;
     default:
         name = "Unknown";
         degree = "N/A";
         motivationalMessage = "Keep going, you’ve got this!🤩";
 }
         
-        
-
             resultDiv.innerHTML = `
             <div class="result">
                 <p><strong>Name:</strong> ${name}</p>
